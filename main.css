@@ -141,16 +141,16 @@ a:hover {
   font-family: 'Great Vibes', cursive;
   margin-top: 1rem; /* To account for the unequal margins compared to the previous section. */
   text-align: center;
-  color: rgba(154, 99, 0, 1);
+  color: white;
 }
 .program p {
   font-style: italic;
-  color: rgba(154, 99, 0, 1);
+  color: white;
 }
 
 .program ul {
   letter-spacing: .025rem;
-  color: rgba(154, 99, 0, 1);
+  color: white;
 }
 .gifts img {
   height: 7.5rem;
