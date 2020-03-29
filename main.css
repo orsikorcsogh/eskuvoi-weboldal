@@ -125,7 +125,7 @@ a:hover {
   margin: 1.5rem auto;
   background-color: #444349;
   
-}
+
 }
 .program {
   width: 100vw;
@@ -237,13 +237,13 @@ footer small {
 
 @media (min-width: 768px) {
 
-  .hero-text {
+  .text {
     padding: 1.25rem;
     border-radius: 4px;
     width: 50%;
   }
 
-  .hero-text h1 {
+  .text h1 {
     font-size: 7rem;
   }
 
